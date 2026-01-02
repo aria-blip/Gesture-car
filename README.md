@@ -24,6 +24,7 @@ A robust, low-latency wireless control system for a robotic chassis using hand g
 | GND | GND |
 | SDA | 21 |
 | SCL | 22 |
+
 ![Receiver Circuit Diagram](./assets/receiver_wiring.jpg)
 ### Receiver (Car Unit)
 | L298N Driver | ESP32 (GPIO) |
