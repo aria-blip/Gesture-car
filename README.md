@@ -1,4 +1,8 @@
 # Kinetic Drive: ESP32 Gesture Controlled Car
+<p align="center">
+  <img src="./assets/auto.jpg" width="45%" />
+  <img src="./assets/test.gif" width="45%" />
+</p>
 
 A robust, low-latency wireless control system for a robotic chassis using hand gestures. Powered by ESP32 microcontrollers and the ESP-NOW communication protocol.
 
